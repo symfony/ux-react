@@ -155,4 +155,4 @@ https://symfony.com/doc/current/contributing/code/bc.html
 .. _`React`: https://reactjs.org/
 .. _`Symfony UX initiative`: https://ux.symfony.com/
 .. _`Symfony UX React demo`: https://ux.symfony.com/react
-:: _`Turbo`: https://turbo.hotwire.dev/
+.. _`Turbo`: https://turbo.hotwire.dev/
