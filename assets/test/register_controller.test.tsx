@@ -8,9 +8,9 @@
  */
 
 import { registerReactControllerComponents } from '../src/register_controller';
-import MyTsxComponent from './fixtures/MyTsxComponent';
 // @ts-ignore
 import MyJsxComponent from './fixtures/MyJsxComponent';
+import MyTsxComponent from './fixtures/MyTsxComponent';
 import RequireContext = __WebpackModuleApi.RequireContext;
 
 const createFakeFixturesContext = (): RequireContext => {

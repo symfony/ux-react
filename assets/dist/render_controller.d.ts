@@ -1,5 +1,5 @@
-import { type ReactElement } from 'react';
 import { Controller } from '@hotwired/stimulus';
+import { type ReactElement } from 'react';
 export default class extends Controller {
     readonly componentValue?: string;
     readonly propsValue?: object;

@@ -1,6 +1,6 @@
+import { Controller } from '@hotwired/stimulus';
 import React from 'react';
 import require$$0 from 'react-dom';
-import { Controller } from '@hotwired/stimulus';
 
 var client = {};
 
