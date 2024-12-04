@@ -7,9 +7,9 @@
  * file that was distributed with this source code.
  */
 
+import { Controller } from '@hotwired/stimulus';
 import React, { type ReactElement } from 'react';
 import { createRoot } from 'react-dom/client';
-import { Controller } from '@hotwired/stimulus';
 
 export default class extends Controller {
     declare readonly componentValue?: string;
